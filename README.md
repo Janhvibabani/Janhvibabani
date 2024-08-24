@@ -2,7 +2,6 @@
 -She/Her <br>
 -I am currently in my learning phase. <br>
 -I am looking for help with Java Backend Development <br>
--Thriller books suggestions are welcomed  <br>
 <!--
 **Janhvibabani/Janhvibabani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
